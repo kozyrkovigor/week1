@@ -1,7 +1,7 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "Козырьков, Игорь Виторович"
+      "X-Author": "Козырьков, Игорь Виторович",
       "Access-Control-Allow-Origin": "*"
     }
   }
