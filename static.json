@@ -7,7 +7,7 @@
   
   "headers": {
     "/*": {
-      "X-Author": "kozigor",
+      "X-Author": "nikird",
       "Access-Control-Allow-Origin": "*"
     },
     "/login/": {
@@ -17,10 +17,6 @@
     "/promise/": {
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain"      
-    },
-     "/sample/": {
-      "Access-Control-Allow-Origin": "*",
-      "Content-Type": "text/plain; charset=UTF-8"    
     }
   }
 }
